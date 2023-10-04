@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# Tarragon Fruit Juice Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the **Tarragon Fruit Juice Landing Page!** This project is a simple and attractive landing page built using **React.js and Tailwind CSS.** It is inspired by a design on Figma provided by the YouTube channel "Shift studio." The purpose of this project is to demonstrate my coding skills and create an appealing user interface for a fictional fruit juice brand called Tarragon.
 
-## Available Scripts
+### Figma design
 
-In the project directory, you can run:
+![Screenshot](./Figma%20Landing%20Page/custom.png)
 
-### `npm start`
+### Screenshots
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Screenshot](./src/assets/orangeWebPageSS.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Screenshot](./src/assets/pineappleWebPageSS.png)
 
-### `npm test`
+### Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Interactive Sliding**: Users can click the "Click to Slide" button to toggle between two different fruit juice pages - Orange and Pineapple.
 
-### `npm run build`
+- **Navigation Bar**: A stylish navigation bar at the top provides easy access to various sections of the landing page.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Engaging Visuals**: Engage users with eye-catching visuals, including images of fruit juice cans and fruit heroes.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Technologies Used
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- React.js: A popular JavaScript library for building user interfaces.
 
-### `npm run eject`
+- Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Project Structure
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **HomePage**: The main component that manages the landing page, including the sliding functionality.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **NavBar**: The navigation bar component at the top of the page.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **OrangePage**: The Orange fruit juice page component.
 
-## Learn More
+- **PineapplePage**: The Pineapple fruit juice page component.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **assets**: Folder containing images used in the project.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Acknowledgments
 
-### Code Splitting
+- Special thanks to the YouTube channel **Shift studio** for providing the design inspiration for this project.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Contact Information
 
-### Analyzing the Bundle Size
+If you have any questions or feedback about this project, feel free to reach out to me:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Email: tribhuvan1256@gmail.com
+- GitHub: [Tribhuvan-Kumar](https://github.com/Tribhuvan-Kumar)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for checking out the Tarragon Fruit Juice Landing Page! Enjoy exploring the colorful world of fruit juice.
